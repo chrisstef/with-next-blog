@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+The project is bootstrapped with the following command:
+
+```bash
+npx create-next-app --typescript --tailwind with-tailwindcss-app
+```
+
 First, run the development server:
 
 ```bash
